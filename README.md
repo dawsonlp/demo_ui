@@ -2,3 +2,6 @@
 
 
 Show how to use github pages
+
+Application can be found [here](cryptoright-frontend/index.html) to run CrytoRight
+
